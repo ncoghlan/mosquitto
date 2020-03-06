@@ -16,6 +16,7 @@ c/*.test
 cpp/*.test
 
 build/
+build.*/
 
 client/mosquitto_pub
 client/mosquitto_rr
@@ -48,6 +49,7 @@ man/mosquitto_sub.1
 man/mqtt.7
 
 out/
+output/
 
 src/db_dump/mosquitto_db_dump
 src/mosquitto
